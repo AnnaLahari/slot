@@ -101,8 +101,8 @@ Execute the program using runserver command.
            </tr>
             <tr>
                <td>02</td>
-               <td></td>
-               <td></td>
+               <td>19AI304</td>
+               <td>Fundamentals of C programming</td>
            </tr> <tr>
                <td>03</td>
                <td>19AI414</td>
@@ -140,7 +140,8 @@ Execute the program using runserver command.
 
 ## OUTPUT:
 
-![WhatsApp Image 2024-04-03 at 20 43 51_af6ae512](https://github.com/AnnaLahari/slot/assets/149365425/53e11507-d467-4259-9314-489b1fe73481)
+![WhatsApp Image 2024-04-03 at 20 56 58_ec9eeac3](https://github.com/AnnaLahari/slot/assets/149365425/98f75d1f-0428-4973-b817-85f16a4a43f9)
+
 
 
 ## RESULT:
